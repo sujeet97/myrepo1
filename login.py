@@ -15,5 +15,3 @@ log.check(raw_input("Enter Login ID:"),
         input("Enter password: "))
 
 print "Login Page"  
-
-I am adding some more lines in login.py
